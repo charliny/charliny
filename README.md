@@ -12,7 +12,7 @@
 - 💻 &nbsp; Pascal | Python | C | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | Laravel | JSP
 - 🛢 &nbsp; MySQL | Postgres | SQL Developer
-- 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
+- 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git | NetBeans
 - 🖥 &nbsp; Adobe UX | Illustrator | Photoshop | CorelDraw
 
 
