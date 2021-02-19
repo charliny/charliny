@@ -3,14 +3,14 @@
 </br>
 
 - 🎓 &nbsp; Cursando Sistemas de Informação - IFSC Instituto Federal de Ciência e Tecnologia de Santa Catarina.
-- 💼 &nbsp; Assistente de Desenvolvimentos na <a href="https://www.alfatransportes.com.br" target="_blank">Alfa Transportes Ltda</a>.
-- 🔭 &nbsp; Atualmente aprofundando conhecimentos em React.
+- 💼 &nbsp; Assistente de Desenvolvimentos de Software na <a href="https://www.alfatransportes.com.br" target="_blank">Alfa Transportes Ltda</a>.
+- 🔭 &nbsp; Atualmente aprofundando conhecimentos em JSP.
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Pascal | Python | C | Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | Laravel
+- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | Laravel | JSP
 - 🛢 &nbsp; MySQL | Postgres | SQL Developer
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Adobe UX | Illustrator | Photoshop | CorelDraw
