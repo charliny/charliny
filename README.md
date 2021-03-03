@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Cursando Sistemas de Informação - IFSC Instituto Federal de Ciência e Tecnologia de Santa Catarina.
 - 💼 &nbsp; Assistente de Desenvolvimentos de Software na <a href="https://www.alfatransportes.com.br" target="_blank">Alfa Transportes Ltda</a>.
-- 🔭 &nbsp; Atualmente aprofundando conhecimentos em JSP.
+- 🔭 &nbsp; Atualmente aprofundando conhecimentos em Spring Boot.
 
 
 <h3>🛠 Tech Stack</h3>
