@@ -2,11 +2,6 @@
 
 </br>
 
-- 🎓 &nbsp; Cursando Sistemas de Informação - IFSC Instituto Federal de Ciência e Tecnologia de Santa Catarina.
-- 💼 &nbsp; Desenvolvedora Web na <a href="https://www.gruposinternet.com.br/" target="_blank">Grupos Internet Ltda</a>.
-- 🔭 &nbsp; Atualmente aprofundando conhecimentos em Zend Framework e Angular.
-
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | JavaScript | Pascal | Python | C | Java
