@@ -4,10 +4,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | JavaScript | Pascal | Python | C | Java
+- 💻 &nbsp; C# | PHP | JavaScript | Pascal | Python | C | Java
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Laravel | Spring Boot | Zend Framework | Angular
 - 🛢 &nbsp; MySQL | Postgres | SQL Developer
-- 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git | NetBeans
+- 🔧 &nbsp; .NET Framework | PyCharm | Visual Studio Code | Eclipse | Git | NetBeans
 - 🖥 &nbsp; Adobe UX | Illustrator | Photoshop | CorelDraw
 
 
