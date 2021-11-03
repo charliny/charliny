@@ -4,7 +4,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | PHP | JavaScript | Pascal | Python | C | Java
+- 💻 &nbsp;  PHP | JavaScript | Pascal | Python | C | C# | Java
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Laravel | Spring Boot | Zend Framework | Angular
 - 🛢 &nbsp; MySQL | Postgres | SQL Developer
 - 🔧 &nbsp; .NET Framework | PyCharm | Visual Studio Code | Eclipse | Git | NetBeans
