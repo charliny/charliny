@@ -1,23 +1,26 @@
-<h2> Hey there! I'm Jorge.</h2>
-
-</br>
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp;  PHP | JavaScript | Pascal | Python | C | C# | Java
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Laravel | Spring Boot | Zend Framework | Angular | React | Ruby on Rails | Nextjs
-- 🛢 &nbsp; MySQL | Postgres | SQL Developer
-- 🔧 &nbsp; .NET Framework | PyCharm | Visual Studio Code | Eclipse | Git | NetBeans
-- 🖥 &nbsp; Adobe UX | Illustrator | Photoshop | CorelDraw
-
-
-
-</br>
-
-
-<h3> 🤝🏻 Conecte-se comigo </h3>
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="mailto:jessicacharliny@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+## Olá eu sou Jorge Ramos, desenvolvedor FullStack!
+<div align="center">
+  <a href="https://github.com/charliny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charliny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charliny&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jorge-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jorge-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Jorge-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:dev.jorgeramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jorge-ramos-309763238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/charliny/charliny/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
