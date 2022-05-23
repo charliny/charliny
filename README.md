@@ -1,4 +1,4 @@
-## Olá ! Eu sou Jorge Ramos 😁
+## Olá, Eu sou Jorge Ramos! 😁
 
 <div align="left">
     <a href="https://github.com/charliny">
